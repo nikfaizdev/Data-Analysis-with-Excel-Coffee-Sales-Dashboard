@@ -17,6 +17,12 @@ It encompasses comprehensive details such as transaction_id, transaction_date, t
 3. Analyze the sales trends over time.
 4. Discover patterns in sales and identify peak traffic days and times.
 
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
 ## Final Dashboard
 ![image](https://github.com/user-attachments/assets/09278897-fb3b-400f-9101-d93a93aa3700)
 
