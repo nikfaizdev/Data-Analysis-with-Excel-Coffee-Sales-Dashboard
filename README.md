@@ -28,7 +28,7 @@ It encompasses comprehensive details such as transaction_id, transaction_date, t
 
 Here’s the final look of the dashboard. The dashboard is crucial for displaying key information. It helps in monitoring, measuring, and analyzing relevant data in key areas.
 
-## Key Findings:
+## Key Findings
 
 ![image](https://github.com/user-attachments/assets/b1426085-39fd-47ce-bf1e-a80c685b5925)
 
@@ -50,4 +50,9 @@ Performance by Store, Monthly, DOW, Daily and Time Session
 -  Top 5 products are all beverages, with coffee and tea leading in both revenue and transaction volume. This highlights a strong customer preference for these beverages.
 -  Green Beans and Green Teas are the least sold items, both in terms of revenue and transactions. This suggests low customer demand toward this products.
 
+## Recomendation
+- Strategies to boost revenue and attract customers in Lower Manhattan could include marketing campaigns, promotions, and focusing on excellent customer service.
+- Consider running Saturday promos to boost weekend sales.
+- Promote afternoon/evening specials or happy hour to boost late-day traffic.
+- Low-performing categories like Packaged Chocolate and Branded products may require reassessment (e.g., promotion, placement, or removal) to optimize product offerings.
 
