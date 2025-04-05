@@ -34,6 +34,11 @@ Performance by Store, Monthly, DOW, Daily and Time Session
 - Base on DOW shows sales peak on Monday, Thursday, and Friday, whereas Saturday records the lowest revenue.
 - The 9AM – 12PM session shows the highest sales, generating $220.1K in revenue, with 10AM marking the peak sales activity. This indicates strong mid-morning demand.
 
+![image](https://github.com/user-attachments/assets/2b4df466-2db6-4579-91b8-bd8d1708f93a)
+
+-  Coffee is the top contributor, accounting for 39.2% of total revenue, followed by Tea at 30.5% and Bakery at 15.3%.
+-  Coffee leads with 58.4K transactions, followed by Tea with 45.4K, and Bakery with 22.8K.
+-  Other categories like Drinking Chocolate and Flavours show moderate engagement, but categories such as Branded, Loose Tea, and Packaged Chocolate have very low transaction volumes (less than 2K), suggesting low demand.
 
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/09278897-fb3b-400f-9101-d93a93aa3700)
