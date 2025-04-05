@@ -40,5 +40,10 @@ Performance by Store, Monthly, DOW, Daily and Time Session
 -  Coffee leads with 58.4K transactions, followed by Tea with 45.4K, and Bakery with 22.8K.
 -  Other categories like Drinking Chocolate and Flavours show moderate engagement, but categories such as Branded, Loose Tea, and Packaged Chocolate have very low transaction volumes (less than 2K), suggesting low demand.
 
+![image](https://github.com/user-attachments/assets/bc939a3a-5144-4c05-8fd2-a3c2801f0cdd)
+
+-  Top 5 products are all beverages, with coffee and tea leading in both revenue and transaction volume. This highlights a strong customer preference for these beverages.
+-  Green Beans and Green Teas are the least sold items, both in terms of revenue and transactions. This suggests low customer demand,
+
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/09278897-fb3b-400f-9101-d93a93aa3700)
