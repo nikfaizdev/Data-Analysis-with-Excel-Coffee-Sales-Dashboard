@@ -23,6 +23,11 @@ It encompasses comprehensive details such as transaction_id, transaction_date, t
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
+## Dashboard
+![image](https://github.com/user-attachments/assets/09278897-fb3b-400f-9101-d93a93aa3700)
+
+Here’s the final look of the dashboard. The dashboard is crucial for displaying key information. It helps in monitoring, measuring, and analyzing relevant data in key areas.
+
 ## Key Findings:
 
 ![image](https://github.com/user-attachments/assets/b1426085-39fd-47ce-bf1e-a80c685b5925)
@@ -45,5 +50,4 @@ Performance by Store, Monthly, DOW, Daily and Time Session
 -  Top 5 products are all beverages, with coffee and tea leading in both revenue and transaction volume. This highlights a strong customer preference for these beverages.
 -  Green Beans and Green Teas are the least sold items, both in terms of revenue and transactions. This suggests low customer demand toward this products.
 
-## Dashboard
-![image](https://github.com/user-attachments/assets/09278897-fb3b-400f-9101-d93a93aa3700)
+
