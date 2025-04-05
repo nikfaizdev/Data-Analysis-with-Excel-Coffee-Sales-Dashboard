@@ -4,3 +4,9 @@ This project involves the development of an Excel dashboard to analyze coffee sa
 
 ## Dataset used
 - <a href="https://github.com/nikfaizdev/Data-Analysis-with-Excel-Coffee-Sales-Dashboard/blob/main/Coffee%2BShop%2BSales.zip">Source Dataset</a>
+
+## Learning Objective
+- Profile and prepare the raw data for analysis.
+- Explore the data with Excel.
+- Build a dynamic dashboard to visualize patterns and trends.
+
