@@ -7,6 +7,9 @@ This project involves the development of an Excel dashboard to analyze coffee sa
 - Build a dynamic dashboard to visualize patterns and trends.
 
 ## Dataset
+
+![image](https://github.com/user-attachments/assets/cf3da4e7-2e4c-4944-95cf-71792fdc5a49)
+
 I got this dataset from kaggle, which contains the transactional records from Maven Roasters, a fictional NYC-based coffee shop operating across 3 locations (Astoria, Hell’s Kitchen, Lower Manhattan) from January 1st to June 30th, 2023.
 It encompasses comprehensive details such as transaction_id, transaction_date, transaction_time, transaction_qty, store_id, store_location, product_id, unit_price, product_category, product_type, product_detail.
 - <a href="https://github.com/nikfaizdev/Data-Analysis-with-Excel-Coffee-Sales-Dashboard/blob/main/Coffee%2BShop%2BSales.zip">Source Dataset</a>
@@ -18,10 +21,11 @@ It encompasses comprehensive details such as transaction_id, transaction_date, t
 4. Discover patterns in sales and identify peak traffic days and times.
 
 ## Process
-- Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Verified the data for any missing values and anomalies, and addressed them accordingly.
+- Ensured the data was consistent and clean in terms of data types, formats, and values used.
+- Added several calculated columns such as revenue, time session, date, and month to support deeper analysis.
+- Created pivot tables based on the questions asked.
+- Designed the final dashboard to provide a comprehensive overview.
 
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/09278897-fb3b-400f-9101-d93a93aa3700)
@@ -32,7 +36,6 @@ Here’s the final look of the dashboard. The dashboard is crucial for displayin
 
 ![image](https://github.com/user-attachments/assets/b1426085-39fd-47ce-bf1e-a80c685b5925)
 
-Performance by Store, Monthly, DOW, Daily and Time Session
 - Hell’s Kitchen leads with $236.5K, followed by Astoria ($232.2K), and Lower Manhattan ($230.1K).
 - There’s a clear upward trend from January ($81.7K) to June ($166.5K) where June is the best-performing month in terms of revenue and quantity sold.
 - Revenue remains mostly consistent throughout the month with minor fluctuations. However, the trend (red dotted line) indicates a slight decrease in revenue as the month progresses.
@@ -56,3 +59,4 @@ Performance by Store, Monthly, DOW, Daily and Time Session
 - Promote afternoon/evening specials or happy hour to boost late-day traffic.
 - Low-performing categories like Packaged Chocolate and Branded products may require reassessment (e.g., promotion, placement, or removal) to optimize product offerings.
 
+And that’s all for my first Excel project! I’d love to hear your thoughts, feedback, and suggestions for improvement. Stay tuned for more projects, and until then, have a nice day!
