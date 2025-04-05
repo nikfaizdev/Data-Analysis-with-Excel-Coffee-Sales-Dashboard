@@ -23,6 +23,7 @@ It encompasses comprehensive details such as transaction_id, transaction_date, t
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-## Final Dashboard
+## Dashboard
 ![image](https://github.com/user-attachments/assets/09278897-fb3b-400f-9101-d93a93aa3700)
 
+## Key Findings:
