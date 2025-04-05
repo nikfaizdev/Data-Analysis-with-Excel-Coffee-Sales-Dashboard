@@ -54,7 +54,7 @@ Here’s the final look of the dashboard. The dashboard is crucial for displayin
 -  Green Beans and Green Teas are the least sold items, both in terms of revenue and transactions. This suggests low customer demand toward this products.
 
 ## Recomendation
-- Strategies to boost revenue and attract customers in Lower Manhattan could include marketing campaigns, promotions, and focusing on excellent customer service.
+- Strategies to boost revenue and attract customers in Lower Manhattan include marketing campaigns, promotions, and focusing on excellent customer service.
 - Consider running Saturday promos to boost weekend sales.
 - Promote afternoon/evening specials or happy hour to boost late-day traffic.
 - Low-performing categories like Packaged Chocolate and Branded products may require reassessment (e.g., promotion, placement, or removal) to optimize product offerings.
