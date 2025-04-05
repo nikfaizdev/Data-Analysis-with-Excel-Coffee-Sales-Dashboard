@@ -15,4 +15,6 @@ This project involves the development of an Excel dashboard to analyze coffee sa
 3. Analyze the sales trends over time.
 4. Discover patterns in sales and identify peak traffic days and times.
 
-- Dashboard Interaction <a href="https://github.com/nikfaizdev/Data-Analysis-with-Excel-Coffee-Sales-Dashboard/blob/main/Dashboard.png?raw=true">View Dashboard</a>
+## Dashboard
+![image](https://github.com/user-attachments/assets/09278897-fb3b-400f-9101-d93a93aa3700)
+
