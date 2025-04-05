@@ -27,3 +27,11 @@ It encompasses comprehensive details such as transaction_id, transaction_date, t
 ![image](https://github.com/user-attachments/assets/09278897-fb3b-400f-9101-d93a93aa3700)
 
 ## Key Findings:
+Performance by Store, Monthly, DOW, Daily and Time Session
+![image](https://github.com/user-attachments/assets/b1426085-39fd-47ce-bf1e-a80c685b5925)
+
+- Hell’s Kitchen leads with $236.5K, followed by Astoria ($232.2K), and Lower Manhattan ($230.1K).
+- There’s a clear upward trend from January ($81.7K) to June ($166.5K) where June is the best-performing month in terms of revenue and quantity sold.
+- Revenue remains mostly consistent throughout the month with minor fluctuations. However, the trend (red dotted line) indicates a slight decrease in revenue as the month progresses.
+- Base on DOW shows sales peak on Monday, Thursday, and Friday, whereas Saturday records the lowest revenue.
+- The 9AM – 12PM session shows the highest sales, generating $220.1K in revenue, with 10AM marking the peak sales activity. This indicates strong mid-morning demand. 
